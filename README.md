@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first Odin project. I will be doing a website that conatins african cuisine recipes. Hopefully by the end of this project, my git skills are enhanced and my basic html knowledge of links, images, and lists is put to work.
